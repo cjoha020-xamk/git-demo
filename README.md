@@ -1,4 +1,4 @@
-# Git-demo
+# Git/GitHub-demoilua
 GitHub kokeiluja
 
 ## Ominaisuuslista (features)
@@ -8,3 +8,5 @@ GitHub kokeiluja
 * Bootstrap mukaan
 * Kissakuvan lisäys
 * Linkki Xamkin sivuille
+
+---
